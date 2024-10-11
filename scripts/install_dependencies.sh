@@ -1,2 +1,3 @@
 echo "install dependencies"
-# npm install
+cd /home/ec2-user/deploy
+npm install

@@ -1,2 +1,4 @@
 echo "start server"
-npm run start
+cd /home/ec2-user/deploy
+nohup npm run start &
+
